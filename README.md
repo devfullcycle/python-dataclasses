@@ -1,6 +1,6 @@
 # Dataclass vs TypedDict vs NamedTuple
 
-Código-fonte ministrado na aula do Youtube: 
+Código-fonte ministrado na aula do Youtube: [https://www.youtube.com/watch?v=lQVaviQHfvg](https://www.youtube.com/watch?v=lQVaviQHfvg)
 
 ## TypedDict
 
